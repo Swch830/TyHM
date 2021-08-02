@@ -1,5 +1,7 @@
 # TyHM
 Este es un espacio de trabajo de la materia TyHM.
-Crearé una carpeta con mi CV. 
-Luego crearé otra carpeta con la traducción de un texto. 
-
+Alumno: Facundo Moyano 
+Legajo: 12824
+<p>
+   <a href="https://emilia0999.github.io/CV_TyHM_2021/CV Emilia Millet.zip"
+      >CV Actualizado Agosto 2021 </a>
